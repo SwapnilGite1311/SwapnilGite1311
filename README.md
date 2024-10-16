@@ -2,7 +2,7 @@
 👋 Hey there! I’m Swapnil Gite, a passionate coding enthusiast 🚀. I thrive on exploring new tech stacks and diving into exciting projects.<br>🛒 Currently, I’m knee-deep in an ambitious endeavor: building an discord clone. It’s a fascinating journey—recreating the social media giant’s features, from product listings to seamless checkout flows.<br>☕ When I’m not typing away at my keyboard, you’ll find me sipping copious amounts of coffee. It’s my secret coding fuel! ☕<br>😊 I’m always open to connecting with fellow tech enthusiasts. Whether it’s discussing code, sharing project ideas, or just geeking out about the latest frameworks, count me in!<br>📧 Feel free to reach out via email at swapnilgite1311@gmail.com.
 
 
-## 🌐 Socials:
+## 🌐 Socials:--
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white) ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
 
 # 💻 Tech Stack:
