@@ -1,24 +1,33 @@
-# 💫 About Me :-
-👋 Hey there! I’m Swapnil Gite, a passionate coding enthusiast 🚀. I thrive on exploring new tech stacks and diving into exciting projects.<br>🛒 Currently, I’m knee-deep in an ambitious endeavor: building an discord clone. It’s a fascinating journey—recreating the social media giant’s features, from product listings to seamless checkout flows.<br>☕ When I’m not typing away at my keyboard, you’ll find me sipping copious amounts of coffee. It’s my secret coding fuel! ☕<br>😊 I’m always open to connecting with fellow tech enthusiasts. Whether it’s discussing code, sharing project ideas, or just geeking out about the latest frameworks, count me in!<br>📧 Feel free to reach out via email at swapnilgite1311@gmail.com. <br>🌐 This is my Portfolio website, Please Do check it out
-Also give it some time as the site takes some time to load and unlock all the features
- swapnilgiteportfolio.netlify.app 
+# Hi, I'm Swapnil Gite 👋
 
+B.Tech Computer Science student at Sanjivani University, India. I build AI tools, computer vision models and full-stack web apps.
 
-## 🌐 Socials:-
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white) ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
+[Portfolio](https://swapnil-gite-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/swapnil-gite/) · [LeetCode](https://leetcode.com/u/Swapnil_1311/) · [Email](mailto:swapnilgite1311@gmail.com)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SwapnilGite1311&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SwapnilGite1311&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilGite1311&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Projects
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SwapnilGite1311&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+| Project | What it does | Built with |
+|---|---|---|
+| [FaceProof](https://github.com/SwapnilGite1311/FaceProof) | Finds where a photo appears online, compares the faces and saves a tamper-proof record on the Polygon blockchain. Hackathon project. | JavaScript, reverse image search, Polygon |
+| [Malaria Smear Analyzer](https://github.com/SwapnilGite1311/Malaria-Detection-in-cell) | Finds malaria-infected red blood cells in blood smear photos. Best model reached 96.2% accuracy. | Python, PyTorch, OpenCV |
+| [Resume Genius](https://github.com/SwapnilGite1311/Resume-Genius) · [live](https://resume-genius-sg.netlify.app) | ATS score and missing skills for job seekers, resume ranking for recruiters. | React, Node.js, Express, MongoDB, Python |
+| [Saree Storefront](https://github.com/SwapnilGite1311/Saree-Website) | Online store demo built for a client pitch against two other teams. | React, Vite, Tailwind CSS |
+| [Leopard Detection](https://github.com/SwapnilGite1311/Leopard-detection) | Watches a live camera feed and sends an SMS alert when it spots a leopard. | Python, YOLOv8, OpenCV, Twilio |
+| [College Bus Tracker](https://github.com/SwapnilGite1311/Bus-Tracking-System) | Live bus locations for students, drivers and college staff. | Flutter, Firebase, Google Maps |
+| [GammaGuard](https://github.com/SwapnilGite1311/URFU_Hackathon) | Our team's website for the Hackatom hackathon at Ural Federal University, Russia. | React, Vite, Tailwind CSS |
+| [Portfolio](https://github.com/SwapnilGite1311/Portfolio) · [live](https://swapnil-gite-portfolio.netlify.app) | My portfolio site with a 3D astronaut and parallax scrolling. | HTML, CSS, JavaScript, Three.js, GSAP |
 
+## Experience
 
----
-[![](https://visitcount.itsvg.in/api?id=SwapnilGite1311&icon=0&color=8)](https://visitcount.itsvg.in)
+- **International Intern**, Ural Federal University, Russia (Jul 2026). Part of a 7-member team representing India at the Hackatom hackathon.
+- **AWS & Linux Intern**, Technogrowth Logipool, Pune (Jun – Jul 2024).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Working on
+
+A local-first AI assistant (private repo). Next up: research on running large AI models across everyday devices.
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,nodejs,express,mongodb,mysql,sqlite,linux,aws,git&perline=14" alt="Python, C++, C, Java, JavaScript, React, Node.js, Express, MongoDB, MySQL, SQLite, Linux, AWS, Git" />
+
+Oracle Cloud Infrastructure Foundations Associate
